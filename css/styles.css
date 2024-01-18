@@ -1,0 +1,60 @@
+
+       .CUSBLogo{
+        position: relative;
+        left: 6%;
+    height: 95px;
+}
+.VC{
+    height: 100px;
+}
+
+.VCspeech{
+    width: 646.646;
+}
+
+.hod{
+    height: 200px;
+    width: 150px;
+}
+.pt{
+    height: 200px;
+    width: 150px;
+}
+h1{
+    text-align: center;
+    color: #112D4E;
+}
+h3{
+    font-size: medium;
+    text-align: center;
+    color: #112D4E;
+}
+h5{
+    font-size: medium;
+}
+.heading{
+    background-color: #3F72AF;
+}
+.heading1{
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+.btn{
+    text-align: center;
+    background: #214d6b;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: #7ca9dd;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+}
+.btn-1{
+    text-align: center;
+    background: #e2c551;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: #40a8b2;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+}
